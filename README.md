@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FilipHuser, an student of VŠB - Technical University of Ostrava
-- 👀 I’m interested in C/C++, programing in general
+- 👀 I’m interested in C/C++ & C#, programing in general
 - 🏣 Currently working at Magna lighting Czech as software developer 
 
 <!---
