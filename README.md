@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FilipHuser, an student of VŠB - Technical University of Ostrava
 - 👀 I’m interested in C/C++ & C#, programing in general
-- 🏣 Currently working at Magna lighting Czech as software developer 
+- 🏣 Currently working at Lumax Industries Czech as software developer 
 
 <!---
 FilipHuser/FilipHuser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
